@@ -1,0 +1,8 @@
+# .gitignore file is important because it prevents unnecessary or sensitive files from being tracked in your repository.
+# This list specifies the files that we want Git to ignore.
+
+.pytest/
+venv/
+.idea/
+.pytest_cache/
+__pycache__/
